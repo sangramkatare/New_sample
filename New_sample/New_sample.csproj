@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>New_sample.Hirarchical_inheritance</StartupObject>
+	  <StartupObject>New_sample.Hierarchical_ass</StartupObject>
   </PropertyGroup>
 
 </Project>
