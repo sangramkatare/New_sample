@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>New_sample.List_ass</StartupObject>
+	  <StartupObject>New_sample.Genericdelegate</StartupObject>
   </PropertyGroup>
 
 </Project>
